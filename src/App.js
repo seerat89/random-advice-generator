@@ -44,7 +44,11 @@ function App() {
         <div className="corner corner-bl"></div>
       </section>
       <div className="link">
-        <a href="#">
+        <a
+          href="https://github.com/seerat89/random-advice-generator"
+          rel="noreferrer"
+          target="_blank"
+        >
           <img src={gitHublogo} alt="GitHub Logo" />
         </a>
       </div>
